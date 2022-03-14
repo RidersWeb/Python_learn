@@ -1,0 +1,3 @@
+impot os
+
+def
